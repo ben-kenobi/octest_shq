@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tools_list</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>0</string>
+			<key>title</key>
+			<string>打车服务</string>
+			<key>cover</key>
+			<string>http://www.qd-life.com/static/upload/2014/12/01/middle_20141201185811000000_1_7574_12.png</string>
+			<key>link</key>
+			<string>http://www.yongche.com/</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>租车服务</string>
+			<key>cover</key>
+			<string>http://www.qd-life.com/static/upload/2014/12/01/middle_20141201185803000000_1_6891_41.png</string>
+			<key>link</key>
+			<string>http://www.zuche.com/</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>2</string>
+			<key>title</key>
+			<string>票务</string>
+			<key>cover</key>
+			<string>http://www.qd-life.com/static/upload/2015/01/09/middle_20150109182833000000_1_6889_32.png</string>
+			<key>link</key>
+			<string>http://wap.piao.com/</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>3</string>
+			<key>title</key>
+			<string>读报纸</string>
+			<key>cover</key>
+			<string>http://www.qd-life.com/static/upload/2015/01/09/middle_20150109182818000000_1_6073_88.png</string>
+			<key>link</key>
+			<string>http://m.bandao.cn/wap/</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>user_id</key>
+	<string>123456</string>
+	<key>gender</key>
+	<string>1</string>
+	<key>mobile</key>
+	<string>18960897429</string>
+	<key>user_name</key>
+	<string>Ricky</string>
+	<key>nick_name</key>
+	<string>Ricky</string>
+	<key>small_avatar</key>
+	<string>http://www.qd-life.com/static/upload/2015/11/17/small_14477475387400.jpg</string>
+	<key>middle_avatar</key>
+	<string>http://www.qd-life.com/static/upload/2015/11/17/middle_14477475387400.jpg</string>
+	<key>remember_me</key>
+	<string>123</string>
+	<key>icon</key>
+	<string>usericon.jpg</string>
+</dict>
+</plist>
